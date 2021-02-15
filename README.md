@@ -1,7 +1,7 @@
 # Train_Station
 *This is a class project*
 
-Andrew Jones
+Author: Andrew Jones
 CS 315 - Project 1
 February 12, 2021
 
